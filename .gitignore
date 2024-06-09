@@ -1,0 +1,27 @@
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+
+# STM32CubeIDE-specific files
+.settings/
+.cproject
+.project
+*.launch
+Debug/
+Release/
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Tool-specific files
+*.log
+*.d
+*.lst
