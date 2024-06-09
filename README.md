@@ -1,5 +1,7 @@
 # LED-Button-Program
 
+A simple program using the STM32F401RE and HAL API to control an LED with a push button.
+
 ## Introduction
 
 This project demonstrates how to use an STM32F401RE microcontroller to control an LED with a push button. The LED lights up when the button is pressed and turns off when the button is released.
